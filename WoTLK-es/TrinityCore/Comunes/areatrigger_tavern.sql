@@ -40,7 +40,6 @@ UPDATE `areatrigger_tavern` SET `name`='Desolace' WHERE `id`='2267';
 UPDATE `areatrigger_tavern` SET `name`='Las Mil Agujas' WHERE `id`='2286';
 UPDATE `areatrigger_tavern` SET `name`='Cuna del Invierno' WHERE `id`='2287';
 UPDATE `areatrigger_tavern` SET `name`='Vallefresno' WHERE `id`='2610';
-UPDATE `areatrigger_tavern` SET `name`='Ciudad de Ventormenta' WHERE `id`='2746';
 UPDATE `areatrigger_tavern` SET `name`='Ciudad de Ventormenta' WHERE `id`='2786';
 UPDATE `areatrigger_tavern` SET `name`='Entrañas' WHERE `id`='3547';
 UPDATE `areatrigger_tavern` SET `name`='Poblado Sañadiente' WHERE `id`='3690';
@@ -69,7 +68,7 @@ UPDATE `areatrigger_tavern` SET `name`='Posada del Puerto Orebor' WHERE `id`='43
 UPDATE `areatrigger_tavern` SET `name`='Posada de la Plaza Alalcón' WHERE `id`='4486';
 UPDATE `areatrigger_tavern` SET `name`='Posada del Bastión Señor del Trueno' WHERE `id`='4494';
 UPDATE `areatrigger_tavern` SET `name`='Posada de las Antiguas Laderas de Trabalomas' WHERE `id`='4498';
-UPDATE `areatrigger_tavern` SET `name`='Posada de Sylvanaar' WHERE `id`='4498';
+UPDATE `areatrigger_tavern` SET `name`='Posada de Sylvanaar' WHERE `id`='4499';
 UPDATE `areatrigger_tavern` SET `name`='Antiguas Laderas de Trabalomas, detrás de la posada' WHERE `id`='4502';
 UPDATE `areatrigger_tavern` SET `name`='Posada del Área 52' WHERE `id`='4521';
 UPDATE `areatrigger_tavern` SET `name`='Aldea Sombraluna' WHERE `id`='4526';
