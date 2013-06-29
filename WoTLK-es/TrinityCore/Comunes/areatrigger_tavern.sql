@@ -7,7 +7,6 @@ ALTER TABLE `areatrigger_tavern` CONVERT TO CHARACTER SET utf8 COLLATE utf8_gene
 UPDATE `areatrigger_tavern` SET `name`='Páramos de Poniente - Posada de la Colina del Centinela' WHERE `id`='71';
 UPDATE `areatrigger_tavern` SET `name`='Expedición Nesingwary' WHERE `id`='98';
 UPDATE `areatrigger_tavern` SET `name`='Strahnbrad' WHERE `id`='178';
-UPDATE `areatrigger_tavern` SET `name`='Horado Rajacieno' WHERE `id`='262';
 UPDATE `areatrigger_tavern` SET `name`='Bosque de Elwynn - Villadorada - Posada Orgullo de León' WHERE `id`='562';
 UPDATE `areatrigger_tavern` SET `name`='Montañas Crestagrana - Posada de Villa del Lago' WHERE `id`='682';
 UPDATE `areatrigger_tavern` SET `name`='Bosque del Ocaso - Villa Oscura - Mesón del Cuervo Escarlata' WHERE `id`='707';
