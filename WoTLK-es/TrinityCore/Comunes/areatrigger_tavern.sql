@@ -69,11 +69,9 @@ UPDATE `areatrigger_tavern` SET `name`='Posada de la Plaza Alalcón' WHERE `id`=
 UPDATE `areatrigger_tavern` SET `name`='Posada del Bastión Señor del Trueno' WHERE `id`='4494';
 UPDATE `areatrigger_tavern` SET `name`='Posada de las Antiguas Laderas de Trabalomas' WHERE `id`='4498';
 UPDATE `areatrigger_tavern` SET `name`='Posada de Sylvanaar' WHERE `id`='4499';
-UPDATE `areatrigger_tavern` SET `name`='Antiguas Laderas de Trabalomas, detrás de la posada' WHERE `id`='4502';
 UPDATE `areatrigger_tavern` SET `name`='Posada del Área 52' WHERE `id`='4521';
 UPDATE `areatrigger_tavern` SET `name`='Aldea Sombraluna' WHERE `id`='4526';
 UPDATE `areatrigger_tavern` SET `name`='Posada del Bastión Martillo Salvaje' WHERE `id`='4528';
-UPDATE `areatrigger_tavern` SET `name`='Valle Sombraluna, Martillo Salvaje, Habitación de la posada' WHERE `id`='4529';
 UPDATE `areatrigger_tavern` SET `name`='Posada de La Flecha de la Tormenta' WHERE `id`='4555';
 UPDATE `areatrigger_tavern` SET `name`='Posada de la Estación de Toshley' WHERE `id`='4558';
 UPDATE `areatrigger_tavern` SET `name`='Posada del Altar de Sha\'tar' WHERE `id`='4577';
@@ -114,5 +112,8 @@ UPDATE `areatrigger_tavern` SET `name`='Refugio de Pedruscón' WHERE `id`='5204'
 UPDATE `areatrigger_tavern` SET `name`='Posada del campamento base de Nesingwary' WHERE `id`='5217';
 UPDATE `areatrigger_tavern` SET `name`='Vanguardia Argenta' WHERE `id`='5227';
 UPDATE `areatrigger_tavern` SET `name`='Cementerio de Dragones - Posada del Reposo del Dragón' WHERE `id`='5314';
+UPDATE `areatrigger_tavern` SET `name`='Cementerio de Dragones - Posada del Reposo del Dragón' WHERE `id`='5315';
+UPDATE `areatrigger_tavern` SET `name`='Cementerio de Dragones - Posada del Reposo del Dragón' WHERE `id`='5316';
+UPDATE `areatrigger_tavern` SET `name`='Cementerio de Dragones - Posada del Reposo del Dragón' WHERE `id`='5317';
 UPDATE `areatrigger_tavern` SET `name`='Campamento Tunka\'lo' WHERE `id`='5323';
 UPDATE `areatrigger_tavern` SET `name`='Alto de Krasus' WHERE `id`='5327';
