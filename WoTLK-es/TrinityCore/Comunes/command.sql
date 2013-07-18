@@ -7,11 +7,11 @@ ALTER TABLE `command` CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
 
 UPDATE `command` SET `help`='Sintaxis: .account\r\nMuestra el nivel de acceso de tu cuenta.' WHERE `name`='account';
 UPDATE `command` SET `help`='Sintaxis: .account addon #addon\nConfigura el nivel de expansión permitida. Valores de Expansión: 0 - normal, 1 - tbc, 2 - wotlk.' WHERE `name`='account addon';
-UPDATE `command` SET `help`='Sintaxis: .account create $cuenta $contraseña\r\nCrea una cuenta y su contraseña.' WHERE `name`='account create';
+UPDATE `command` SET `help`='Sintaxis: .account create $cuenta $contraseña\r\nCrea una cuenta y establece una contraseña para ella.' WHERE `name`='account create';
 UPDATE `command` SET `help`='Sintaxis: .account delete $cuenta\r\nBorra la cuenta con todos sus personajes.' WHERE `name`='account delete';
 UPDATE `command` SET `help`='Sintaxis: .account lock [on|off]\r\nLimita el acceso a la cuenta sólo por la IP actual o elimina dicha restricción.' WHERE `name`='account lock';
 UPDATE `command` SET `help`='Sintaxis: .account onlinelist\r\nMuestra la lista de cuentas conectadas.' WHERE `name`='account onlinelist';
-UPDATE `command` SET `help`='Sintaxis: .account password $vieja_contraseña $nueva_contraseña $nueva_contraseña\r\nModifica la contraseña de tu cuenta.' WHERE `name`='account password';
+UPDATE `command` SET `help`='Sintaxis: .account password $vieja_contraseña $nueva_contraseña $nueva_contraseña\r\nCambia la contraseña de tu cuenta.' WHERE `name`='account password';
 UPDATE `command` SET `help`='Sintaxis: .account set $subcomando\nEscriba .account set para ver la lista de posibles subcomandos o .help account set $subcomando para ver la información sobre ese subcomando' WHERE `name`='account set';
 UPDATE `command` SET `help`='Sintaxis: .account set addon [$cuenta] #expansión\r\nConfigura el nivel de expansión del usuario (seleccionado). Valores de Expansión: 0 - normal, 1 - tbc, 2 - wotlk.' WHERE `name`='account set addon';
 UPDATE `command` SET `help`='Sintaxis: .account set gmlevel [$cuenta] #nivel [#idReino]\r\nModifica el nivel de seguridad del jugador seleccionado (No puede ser usado en uno mismo) o para la cuenta $nombre a un nivel de #nivel en el reino #idReino.\r\n#nivel puede ir de 0 a 3.\r\n#idReino puede ser -1 para todos los reinos.' WHERE `name`='account set gmlevel';
