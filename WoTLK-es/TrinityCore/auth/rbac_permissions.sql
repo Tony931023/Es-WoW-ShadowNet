@@ -15,4 +15,4 @@ UPDATE `rbac_permissions` SET `name` = 'Saltar el Chequeo de Máscara de Creación
 UPDATE `rbac_permissions` SET `name` = 'Saltar el Chequeo de Máscara de Creación del Raza de Personaje' WHERE `rbac_permissions`.`id` =16;
 UPDATE `rbac_permissions` SET `name` = 'Saltar el Chequeo de Nombre Reservado del Personaje' WHERE `rbac_permissions`.`id` =17;
 UPDATE `rbac_permissions` SET `name` = 'Saltar la Creación Mínimo Nivel del Personaje Heroico' WHERE `rbac_permissions`.`id` =18;
-UPDATE `rbac_permissions` SET `name` = 'Saltar la Comprobación de los Requisitos Necesarios para Usar Canales' WHERE `rbac_permissions`.`id` =18;
+UPDATE `rbac_permissions` SET `name` = 'Saltar la Comprobación de los Requisitos Necesarios para Usar Canales' WHERE `rbac_permissions`.`id` =19;
