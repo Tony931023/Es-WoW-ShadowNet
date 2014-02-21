@@ -45,7 +45,7 @@ UPDATE `areatrigger_tavern` SET `name`='Entrañas' WHERE `id`='3547';
 UPDATE `areatrigger_tavern` SET `name`='Poblado Sañadiente' WHERE `id`='3690';
 UPDATE `areatrigger_tavern` SET `name`='Campamento base de Grom\'gol' WHERE `id`='3886';
 UPDATE `areatrigger_tavern` SET `name`='Fuerte Cenarion' WHERE `id`='3985';
-UPDATE `areatrigger_tavern` SET `name`='Capilla de la Esperanza de la Luz' WHERE `id`='4085';
+UPDATE `areatrigger_tavern` SET `name`='Capilla de la Esperanza de la Luz' WHERE `id`='4058';
 UPDATE `areatrigger_tavern` SET `name`='Cima del Espolón' WHERE `id`='4090';
 UPDATE `areatrigger_tavern` SET `name`='Posada de Tranquillien' WHERE `id`='4108';
 UPDATE `areatrigger_tavern` SET `name`='Tierras Fantasma, Tranquillien, Inicio de la posada' WHERE `id`='4109';
