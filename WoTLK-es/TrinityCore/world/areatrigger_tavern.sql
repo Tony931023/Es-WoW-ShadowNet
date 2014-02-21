@@ -117,3 +117,4 @@ UPDATE `areatrigger_tavern` SET `name`='Cementerio de Dragones - Posada del Repo
 UPDATE `areatrigger_tavern` SET `name`='Cementerio de Dragones - Posada del Reposo del Dragón' WHERE `id`='5317';
 UPDATE `areatrigger_tavern` SET `name`='Campamento Tunka\'lo' WHERE `id`='5323';
 UPDATE `areatrigger_tavern` SET `name`='Alto de Krasus' WHERE `id`='5327';
+UPDATE `areatrigger_tavern` SET `name`='Sitio del Accidente Grom\'arsh' WHERE `id`='5360';
